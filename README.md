@@ -1,4 +1,4 @@
-<h2 align="center">🪁 venity</h2>
+<h2 align="center">🪁 v1sty</h2>
 
 ###
 
