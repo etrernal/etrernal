@@ -9,10 +9,14 @@ I bridge the gap between complex software architecture and offensive security. W
 - 💻 **Tech Philosophy:** Security is a process, not a product. If it's connected, it's a target.
 - 
 - 🎓 **Education:**
-- Associate Degree in Information Technology - University of Acacia
--Enpoint Security and network configuriations certification - Cisco Networking Academy 
--Advanced Certifications in IT Security & DS&A (University of Acacia )
--Master Diploma in Cybersecurity and Ethical Hacking ( Boston Institue of Analytics )
+
+Associate Degree in Information Technology - University of Acacia
+
+Enpoint Security and network configuriations certification Cisco Networking Academy 
+
+Advanced Certifications in IT Security & DS&A (University of Acacia )
+
+Master Diploma in Cybersecurity and Ethical Hacking ( Boston Institue of Analytics )
 
 ### 🛠️ Offensive & Defensive Arsenal
 
