@@ -1,6 +1,6 @@
 # Hi there, I'm Kitsana Thuekoh 🛡️⚔️
 
-### Cybersecurity Researcher & Penetration Tester | Founder of Sterling Consulting
+### Cybersecurity Researcher | Penetration Tester | Systems Engineer | Cybersecurity Analyst | Full Stack Developer 
 
 I bridge the gap between complex software architecture and offensive security. With a foundation in **IT Security Management** and **Cybersecurity**, I specialize in identifying vulnerabilities before they can be exploited. I approach development with a hacker’s mindset—building systems that are not just functional, but resilient against modern threat vectors.
 
@@ -9,8 +9,10 @@ I bridge the gap between complex software architecture and offensive security. W
 - 💻 **Tech Philosophy:** Security is a process, not a product. If it's connected, it's a target.
 - 
 - 🎓 **Education:**
-- Associate Degree in IT & Advanced Certifications in IT Security & DS&A (University of Acacia )
-  Master Diploma in Cybersecurity and Ethical Hacking ( Boston Institue of Analytics )
+- Associate Degree in Information Technology - University of Acacia
+-Enpoint Security and network configuriations certification - Cisco Networking Academy 
+-Advanced Certifications in IT Security & DS&A (University of Acacia )
+-Master Diploma in Cybersecurity and Ethical Hacking ( Boston Institue of Analytics )
 
 ### 🛠️ Offensive & Defensive Arsenal
 
